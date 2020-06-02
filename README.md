@@ -1,6 +1,7 @@
 # Set of excersices from w3resource
 
-This repository covers all 15 excersices from w3resource - "Data Types"
+This repository covers excersices from w3resource - "Data Types"
+
 They were all completed using NetBeans
 
 ## Installation
